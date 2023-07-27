@@ -1,6 +1,6 @@
 # KotlinMovieApp
 
-- [x] ##  I used these libraries in this project;
+##  I used these libraries in this project;
 ## Coroutine
 ## LiveData
 ## Retrofit 2
